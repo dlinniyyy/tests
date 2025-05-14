@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42553872-44e1-4828-b034-21e128fc6950" name="Changes" comment="">
+    <list default="true" id="42553872-44e1-4828-b034-21e128fc6950" name="Changes" comment="My repo">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
@@ -27,12 +27,15 @@
     &quot;assignee&quot;: &quot;dlinniyyy&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Inzhenerka/qa-base-lesson-8-yarygin.git&quot;,
-    &quot;accountId&quot;: &quot;e1105a7a-f973-42ea-b1af-8d7e90185487&quot;
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="e1105a7a-f973-42ea-b1af-8d7e90185487" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/dlinniyyy/tests.git",
+    "accountId": "e1105a7a-f973-42ea-b1af-8d7e90185487"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -41,20 +44,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.InzhenerkaLoginTest.executor": "Run",
-    "JUnit.InzhenerkaLoginTest.executor": "Run",
-    "JUnit.InzhenerkaLoginTest.loginTest.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/junior/Documents/GitHub/qa-base-lesson-8-yarygin",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.InzhenerkaLoginTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.InzhenerkaLoginTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.InzhenerkaLoginTest.loginTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/junior/Documents/GitHub/qa-base-lesson-8-yarygin&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/test/java/resources" />
@@ -105,5 +108,20 @@
       <updated>1722077487035</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="My repo" />
   </component>
 </project>
