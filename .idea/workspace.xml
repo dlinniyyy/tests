@@ -4,19 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42553872-44e1-4828-b034-21e128fc6950" name="Changes" comment="My repo">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="42553872-44e1-4828-b034-21e128fc6950" name="Changes" comment="add file for correct push">
+      <change afterPath="$PROJECT_DIR$/src/test/java/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LoginPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/InzhenerkaLoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/InzhenerkaLoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/selenide.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/selenide.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/forgithub.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/InzhenerkaLoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/InzhenerkaLoginTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/selenide.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenide.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,6 +42,9 @@
     "accountId": "e1105a7a-f973-42ea-b1af-8d7e90185487"
   }
 }]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -63,7 +72,7 @@
       <recent name="$PROJECT_DIR$/src/test/java/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.InzhenerkaLoginTest.loginTest">
+  <component name="RunManager" selected="JUnit.InzhenerkaLoginTest">
     <configuration name="InzhenerkaLoginTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InzhenerkaLoginTest" />
       <module name="example-project" />
@@ -92,8 +101,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.InzhenerkaLoginTest.loginTest" />
         <item itemvalue="JUnit.InzhenerkaLoginTest" />
+        <item itemvalue="JUnit.InzhenerkaLoginTest.loginTest" />
         <item itemvalue="Application.InzhenerkaLoginTest" />
       </list>
     </recent_temporary>
@@ -107,6 +116,23 @@
       <option name="presentableId" value="Default" />
       <updated>1722077487035</updated>
     </task>
+    <task id="LOCAL-00001" summary="My repo">
+      <option name="closed" value="true" />
+      <created>1747210482457</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747210482458</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add file for correct push">
+      <option name="closed" value="true" />
+      <created>1747210810959</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747210810959</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,6 +148,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="My repo" />
+    <MESSAGE value="add file for correct push" />
+    <option name="LAST_COMMIT_MESSAGE" value="add file for correct push" />
   </component>
 </project>
